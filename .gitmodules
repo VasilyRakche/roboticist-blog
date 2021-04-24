@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/VasilyRakche/vasilyrakche.github.io
+	branch = main
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+	branch = main
