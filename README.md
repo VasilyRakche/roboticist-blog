@@ -11,3 +11,4 @@ Youtube tutorial: [How to create a blog with Hugo and GitHub Pages](https://www.
 - For GitHub managed DNS name repository eather **<username>.github.io** or **<organisation>.github.io**. More info here: [GitHub getting started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-**site**) 
 - It is suggested to use separate repository for deployment (build files) and separate for source code (add deployment repo as submodule inside the directory: *public* in your source code)
 - Run `hugo -t <name of the theme>` to build the website
+- To run the website localserver (To check the content) go: `hugo server`
